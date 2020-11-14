@@ -1,0 +1,15 @@
+{
+  "name": "helloworld-nodejs-jenkins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/izemauricio/helloworld-nodejs-jenkins.git",
+  "author": "Mauricio Ize <mauriciodcjz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "supertest": "^6.0.1"
+  }
+}
